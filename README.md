@@ -20,8 +20,8 @@ the point.
 
 ## What's here
 
-- `lyrics/` — all 8 lyric sheets, verbatim, exactly as published.
-- `EP_TRACKS.md` — the 5 songs that made the EP.
+- `lyrics/` — 8 lyric sheets, verbatim, exactly as published: the 5 EP songs plus the 3 unfinished songs.
+- `EP_TRACKS.md` — the 6 tracks that made the EP, in order. (Track 1 is a spoken-word intro; its text ships with the release, not in the open pack.)
 - `UNFINISHED.md` — the 3 songs the crowd gets to tackle themselves.
 - `MANIFEST` — sha256 fingerprints of every lyric file, so the publication
   record is verifiable.

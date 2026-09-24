@@ -1,9 +1,12 @@
 # MUSE NEWS VOL. 1 — Lyrics Pack
 
-Original lyrics by **Aldrin Payopay** (DRINOMAN), written September 24, 2026.
+Lyrics developed by **Aldrin Payopay** (DRINOMAN) with AI assistance,
+finalized September 24, 2026.
 
-This repo is the timestamped original-creation record for the MUSE NEWS VOL. 1
-lyrics — and a pack to send you off on a journey.
+This repo is the public timestamped publication record for the MUSE NEWS
+VOL. 1 lyrics — and a pack to send you off on a journey. Git history and
+file hashes document what was published and when; they are an integrity
+record, not conclusive proof of authorship or first creation.
 
 ## The deal
 
@@ -17,11 +20,11 @@ the point.
 
 ## What's here
 
-- `lyrics/` — all 8 original lyric sheets, verbatim, exactly as written.
+- `lyrics/` — all 8 lyric sheets, verbatim, exactly as published.
 - `EP_TRACKS.md` — the 5 songs that made the EP.
 - `UNFINISHED.md` — the 3 songs the crowd gets to tackle themselves.
-- `MANIFEST` — sha256 fingerprints of every lyric file, so the original
-  creation record is verifiable.
+- `MANIFEST` — sha256 fingerprints of every lyric file, so the publication
+  record is verifiable.
 
 ## How to participate
 
@@ -40,3 +43,7 @@ text, or https://creativecommons.org/licenses/by/4.0/.
 You may use, remix, and build on these lyrics for any purpose, including
 commercially, as long as you give appropriate attribution. That attribution
 requirement is the point: the record shows where they came from.
+
+**Scope:** the CC BY 4.0 license covers the lyric/template text in this repo
+only. It does **not** cover the master recordings, the cover art, or any
+trademarks — including DRINOMAN and Persona500 branding.
